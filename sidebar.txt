@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smr:home|Door43 (smr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smr|d43-smr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smr/archive/master.zip|d43-smr.zip]]
+
+**Recent Changes**
+{{changes>ns = smr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smr|Ethnologue data]]
+
